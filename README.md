@@ -53,7 +53,7 @@ Developed a cryptocurrency market analysis workflow covering API-based data coll
 * Experimented with regression, classification and K-Means clustering.
 * Explored feature importance and unusual market movements.
 
-**GitHub:** `crypto-market-analysis`
+**GitHub:** [Cryptocurrency Market Analysis](https://github.com/Sankarshancn-lab/crypto-market-analysis)
 
 ### 03. E-commerce Customer Behaviour Analysis
 
@@ -61,7 +61,7 @@ Developed a cryptocurrency market analysis workflow covering API-based data coll
 
 Explored customer behaviour and purchasing patterns through data preprocessing, exploratory analysis and machine-learning techniques.
 
-**GitHub:** `ecommerce-customer-behavior-analysis`
+**GitHub:** [E-commerce Customer Behaviour Analysis](https://github.com/Sankarshancn-lab/ecommerce-customer-behavior-analysis)
 
 ### 04. Financial Risk Analysis
 
@@ -69,7 +69,7 @@ Explored customer behaviour and purchasing patterns through data preprocessing, 
 
 Worked with financial transaction data to explore data quality, patterns and risk-related characteristics through analytical techniques.
 
-**GitHub:** `barclays-financial-risk-analysis`
+**GitHub:** [Financial Risk Analysis](https://github.com/Sankarshancn-lab/barclays-financial-risk-analysis)
 
 ### 05. Customer Retention Analytics
 
@@ -77,7 +77,7 @@ Worked with financial transaction data to explore data quality, patterns and ris
 
 Developed an interactive business intelligence dashboard focused on customer retention and business performance analysis.
 
-**GitHub:** `walmart-customer-retention-analytics`
+**GitHub:** [Customer Retention Analytics](https://github.com/Sankarshancn-lab/walmart-customer-retention-analytics)
 
 ### 06. Logistics SQL Analysis
 
@@ -87,7 +87,7 @@ Analysed logistics operations using SQL queries to investigate shipment performa
 
 Applied joins, CTEs, window functions, aggregations and data-cleaning techniques.
 
-**GitHub:** `fedex-logistics-sql-analysis`
+**GitHub:** [Logistics SQL Analysis](https://github.com/Sankarshancn-lab/fedex-logistics-sql-analysis)
 
 ### 07. Tesla Social Media Analytics
 
@@ -95,7 +95,7 @@ Applied joins, CTEs, window functions, aggregations and data-cleaning techniques
 
 Explored social media performance through engagement metrics, platform comparisons, hashtag analysis and campaign-related insights.
 
-**GitHub:** `tesla-social-media-analytics`
+**GitHub:** [Tesla Social Media Analytics](https://github.com/Sankarshancn-lab/tesla-social-media-analytics)
 
 ---
 
