@@ -40,7 +40,7 @@ An algorithm-driven logistics routing engine designed to explore scalable route 
 * Implemented exact and heuristic approaches to the Travelling Salesperson Problem.
 * Conducted performance benchmarking and scalability testing.
 
-**GitHub:** `logistics-optimization-engine`
+**GitHub:** [Logistics Optimization Engine](https://github.com/Sankarshancn-lab/logistics-optimization-engine)
 
 ### 02. Cryptocurrency Market Analysis
 
