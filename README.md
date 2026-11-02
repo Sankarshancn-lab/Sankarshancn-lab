@@ -123,8 +123,9 @@ Ballari Institute of Technology and Management | 2025
 
 I'm interested in connecting with professionals, developers and teams working in Data Analytics, Data Science, Machine Learning and technology-driven problem solving.
 
-**GitHub:** Sankarshancn-lab
-**Location:** Bengaluru, India
+* **GitHub:** [Sankarshancn-lab](https://github.com/Sankarshancn-lab)
+* **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sankarshan-c-n-0429582a4/)
+* **Location:** Bengaluru, India
 
 ---
 
