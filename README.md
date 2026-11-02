@@ -1,4 +1,4 @@
-# Sankarshan CN
+# Sankarshan C N
 
 ### M.Tech Data Science | Data Analytics · Machine Learning · Problem Solving
 
